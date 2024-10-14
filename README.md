@@ -15,6 +15,8 @@
 7. run upload.py (pdf, .txt, JSON)
 8. run localrag.py (with query re-write)
 9. run localrag_no_rewrite.py (no query re-write)
+   
+**Note:** The highest Python version that works with this setup is 3.12.
 
 ### Email RAG Setup
 1. git clone https://github.com/AllAboutAI-YT/easy-local-rag.git
